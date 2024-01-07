@@ -1,0 +1,50 @@
+LAP_20230815_1,노트북,일렉트론,갤럭시북,LAP13045T,Black,Cpu:i5,RAM:8GB,저장공간:256GB,화면크기:15인치
+LAP_20230815_2,노트북,일렉트론,니콘 Z8,LAP29547X,Pink,Cpu:M1,RAM:64GB,저장공간:128GB,화면크기:15인치
+LAP_20230815_3,노트북,아인전자,울트라PC,LAP16690W,Gold,Cpu:M2,RAM:64GB,저장공간:512GB,화면크기:13인치
+LAP_20230815_4,노트북,아인전자,니콘 Z8,LAP74044W,White,Cpu:i3,RAM:64GB,저장공간:512GB,화면크기:16인치
+LAP_20230815_5,노트북,노크온,갤럭시북,LAP45206Y,Pink,Cpu:M2,RAM:16GB,저장공간:512GB,화면크기:16인치
+LAP_20230815_6,노트북,노크온,그램,LAP78868B,Gold,Cpu:i3,RAM:64GB,저장공간:256GB,화면크기:14인치
+LAP_20230815_7,노트북,노크온,그램,LAP18630T,Black,Cpu:i5,RAM:8GB,저장공간:128GB,화면크기:13인치
+LAP_20230815_8,노트북,아인전자,울트라PC,LAP76828U,Gold,Cpu:M1,RAM:32GB,저장공간:512GB,화면크기:14인치
+LAP_20230815_9,노트북,노크온,갤럭시북,LAP19148A,Pink,Cpu:M2,RAM:32GB,저장공간:512GB,화면크기:13인치
+LAP_20230815_10,노트북,아인전자,MacBook,LAP16748E,White,Cpu:M1,RAM:32GB,저장공간:128GB,화면크기:14인치
+LAP_20230815_11,노트북,아인전자,그램,LAP53458J,White,Cpu:i7,RAM:16GB,저장공간:512GB,화면크기:13인치
+LAP_20230815_12,노트북,일렉트론,갤럭시북,LAP46896L,Black,Cpu:i7,RAM:16GB,저장공간:256GB,화면크기:16인치
+LAP_20230815_13,노트북,노크온,MacBook,LAP27861Z,Black,Cpu:M1,RAM:32GB,저장공간:256GB,화면크기:16인치
+LAP_20230815_14,노트북,일렉트론,울트라PC,LAP73318E,Silver,Cpu:i3,RAM:64GB,저장공간:128GB,화면크기:16인치
+LAP_20230815_15,노트북,아인전자,MacBook,LAP90980I,Silver,Cpu:i5,RAM:16GB,저장공간:256GB,화면크기:13인치
+LAP_20230815_16,노트북,노크온,MacBook,LAP45598Q,Silver,Cpu:M2,RAM:32GB,저장공간:128GB,화면크기:15인치
+LAP_20230815_17,노트북,아인전자,그램,LAP38175I,Black,Cpu:i3,RAM:8GB,저장공간:128GB,화면크기:13인치
+LAP_20230815_18,노트북,아인전자,니콘 Z8,LAP92362T,Black,Cpu:i5,RAM:64GB,저장공간:128GB,화면크기:15인치
+LAP_20230815_19,노트북,노크온,니콘 Z8,LAP43177U,Gold,Cpu:i7,RAM:64GB,저장공간:512GB,화면크기:14인치
+LAP_20230815_20,노트북,노크온,니콘 Z8,LAP57277N,Gold,Cpu:i3,RAM:16GB,저장공간:512GB,화면크기:14인치
+LAP_20230815_21,노트북,일렉트론,니콘 Z8,LAP76806C,Black,Cpu:i7,RAM:16GB,저장공간:512GB,화면크기:13인치
+LAP_20230815_22,노트북,아인전자,갤럭시북,LAP34956Z,Gold,Cpu:M1,RAM:8GB,저장공간:128GB,화면크기:14인치
+LAP_20230815_23,노트북,노크온,그램,LAP17294L,Black,Cpu:i5,RAM:32GB,저장공간:128GB,화면크기:15인치
+LAP_20230815_24,노트북,아인전자,니콘 Z8,LAP93760Q,Gold,Cpu:i7,RAM:8GB,저장공간:512GB,화면크기:15인치
+LAP_20230815_25,노트북,노크온,MacBook,LAP44122S,Silver,Cpu:i3,RAM:64GB,저장공간:128GB,화면크기:13인치
+LAP_20230815_26,노트북,일렉트론,그램,LAP79298O,Gold,Cpu:i5,RAM:64GB,저장공간:256GB,화면크기:15인치
+LAP_20230815_27,노트북,노크온,니콘 Z8,LAP76322W,Black,Cpu:M2,RAM:8GB,저장공간:512GB,화면크기:14인치
+LAP_20230815_28,노트북,노크온,그램,LAP62830K,Black,Cpu:i7,RAM:64GB,저장공간:256GB,화면크기:15인치
+LAP_20230815_29,노트북,아인전자,니콘 Z8,LAP32758W,Pink,Cpu:i5,RAM:16GB,저장공간:512GB,화면크기:13인치
+LAP_20230815_30,노트북,일렉트론,갤럭시북,LAP98193K,Gold,Cpu:i5,RAM:64GB,저장공간:512GB,화면크기:14인치
+LAP_20230815_31,노트북,일렉트론,니콘 Z8,LAP75266L,Gold,Cpu:i3,RAM:16GB,저장공간:256GB,화면크기:14인치
+LAP_20230815_32,노트북,노크온,갤럭시북,LAP93132M,Black,Cpu:i3,RAM:32GB,저장공간:512GB,화면크기:14인치
+LAP_20230815_33,노트북,아인전자,갤럭시북,LAP27928B,White,Cpu:i7,RAM:8GB,저장공간:512GB,화면크기:14인치
+LAP_20230815_34,노트북,아인전자,MacBook,LAP59439Y,Black,Cpu:M1,RAM:8GB,저장공간:512GB,화면크기:13인치
+LAP_20230815_35,노트북,아인전자,MacBook,LAP58747N,Silver,Cpu:i7,RAM:16GB,저장공간:128GB,화면크기:14인치
+LAP_20230815_36,노트북,노크온,그램,LAP60559Y,Silver,Cpu:i3,RAM:8GB,저장공간:256GB,화면크기:14인치
+LAP_20230815_37,노트북,아인전자,니콘 Z8,LAP61903B,White,Cpu:i5,RAM:8GB,저장공간:512GB,화면크기:15인치
+LAP_20230815_38,노트북,노크온,MacBook,LAP40530E,Silver,Cpu:i5,RAM:8GB,저장공간:512GB,화면크기:16인치
+LAP_20230815_39,노트북,노크온,갤럭시북,LAP55563D,Black,Cpu:i3,RAM:8GB,저장공간:512GB,화면크기:16인치
+LAP_20230815_40,노트북,노크온,갤럭시북,LAP54190Q,Black,Cpu:i7,RAM:8GB,저장공간:256GB,화면크기:14인치
+LAP_20230815_41,노트북,노크온,니콘 Z8,LAP63191B,Gold,Cpu:i3,RAM:32GB,저장공간:512GB,화면크기:13인치
+LAP_20230815_42,노트북,노크온,MacBook,LAP23790P,White,Cpu:i5,RAM:64GB,저장공간:256GB,화면크기:14인치
+LAP_20230815_43,노트북,노크온,니콘 Z8,LAP73919H,Pink,Cpu:i7,RAM:8GB,저장공간:512GB,화면크기:15인치
+LAP_20230815_44,노트북,일렉트론,MacBook,LAP92142W,Silver,Cpu:i7,RAM:8GB,저장공간:256GB,화면크기:15인치
+LAP_20230815_45,노트북,노크온,갤럭시북,LAP45694S,White,Cpu:i5,RAM:64GB,저장공간:256GB,화면크기:14인치
+LAP_20230815_46,노트북,아인전자,갤럭시북,LAP88842H,Gold,Cpu:i3,RAM:64GB,저장공간:128GB,화면크기:15인치
+LAP_20230815_47,노트북,일렉트론,그램,LAP17621F,Pink,Cpu:i3,RAM:32GB,저장공간:128GB,화면크기:14인치
+LAP_20230815_48,노트북,노크온,MacBook,LAP24419R,Silver,Cpu:M1,RAM:8GB,저장공간:512GB,화면크기:16인치
+LAP_20230815_49,노트북,아인전자,울트라PC,LAP92754X,White,Cpu:i7,RAM:16GB,저장공간:128GB,화면크기:13인치
+LAP_20230815_50,노트북,일렉트론,갤럭시북,LAP40331P,Gold,Cpu:i7,RAM:16GB,저장공간:512GB,화면크기:16인치
