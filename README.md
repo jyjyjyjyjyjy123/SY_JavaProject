@@ -1,1 +1,1 @@
-[Uploading 요약본.docx…]()
+[요약본.docx](https://github.com/user-attachments/files/16124543/default.docx)
